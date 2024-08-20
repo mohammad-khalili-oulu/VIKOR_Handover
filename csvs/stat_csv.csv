@@ -1,0 +1,140 @@
+Execution Time TOPSIS:,0.0
+Count:,0
+Forecast Horizon:,2
+N_I:,2,N_O:,4,N_R:,1,N_T:,5
+Average duration of optical connections TOPSIS:,5
+Standard deviation of Optical connections TOPSIS:,0
+Average duration of Radio connections TOPSIS:,0
+Standard deviation of Radio connections TOPSIS:,0
+Average duration of optical connections GREEDY:,4
+Standard deviation of Optical connections GREEDY:,0
+Average duration of Radio connections GREEDY:,5
+Standard deviation of Radio connections GREEDY:,0
+TOPSIS Distances,optical - Avg:,5.406709823206312,Std Dev:,2.9627821005414376
+TOPSIS Distances,Radio - Avg:,0,Std Dev:,0
+GREEDY Distances,optical - Avg:,3.311706508735338,Std Dev:,0
+GREEDY Distances,Radio - Avg:,4.049021317351013,Std Dev:,0.7585242206245874
+TOPSIS Handovers,optical:,2,Radio:,0
+GREEDY Handovers,optical:,1,Radio:,2
+Remain_Band TOPSIS:,"['oa_std_dev', 6.363961030678928, 'ra_std_dev', None]"
+Remain_Band GREEDY:,"['oa_std_dev', 6.363961030678928, 'ra_std_dev', 5.196152422706632]"
+Execution Time TOPSIS:,0.0
+Count:,0
+Forecast Horizon:,2
+N_I:,2,N_O:,4,N_R:,1,N_T:,5
+Average duration of optical connections TOPSIS:,2.75
+Standard deviation of Optical connections TOPSIS:,1.5
+Average duration of Radio connections TOPSIS:,3
+Standard deviation of Radio connections TOPSIS:,0
+Average duration of optical connections GREEDY:,5
+Standard deviation of Optical connections GREEDY:,0
+Average duration of Radio connections GREEDY:,5
+Standard deviation of Radio connections GREEDY:,0
+TOPSIS Distances,optical - Avg:,5.82592270068159,Std Dev:,1.0856687877203028
+TOPSIS Distances,Radio - Avg:,5.75656147365769,Std Dev:,0
+GREEDY Distances,optical - Avg:,3.5125489320435097,Std Dev:,0
+GREEDY Distances,Radio - Avg:,3.254673562740202,Std Dev:,0
+TOPSIS Handovers,optical:,7,Radio:,1
+GREEDY Handovers,optical:,1,Radio:,1
+Remain_Band TOPSIS:,"['oa_std_dev', 4.8896923123128015, 'ra_std_dev', 6.363961030678928]"
+Remain_Band GREEDY:,"['oa_std_dev', 6.363961030678928, 'ra_std_dev', 6.363961030678928]"
+Execution Time VIKOR:,0.0
+Count:,0
+Forecast Horizon:,2
+N_I:,2,N_O:,4,N_R:,1,N_T:,5
+Average duration of optical connections VIKOR:,2.25
+Standard deviation of Optical connections VIKOR:,0.5
+Average duration of Radio connections VIKOR:,0
+Standard deviation of Radio connections VIKOR:,0
+Average duration of optical connections GREEDY:,2.5
+Standard deviation of Optical connections GREEDY:,0.7071067811865476
+Average duration of Radio connections GREEDY:,5
+Standard deviation of Radio connections GREEDY:,0
+VIKOR Distances,optical - Avg:,6.3149342082234385,Std Dev:,1.5737133663715497
+VIKOR Distances,Radio - Avg:,0,Std Dev:,0
+GREEDY Distances,optical - Avg:,3.8968425398912974,Std Dev:,0.2869546200016922
+GREEDY Distances,Radio - Avg:,5.00172984771551,Std Dev:,0.006860097926470889
+VIKOR Handovers,optical:,8,Radio:,0
+GREEDY Handovers,optical:,3,Radio:,2
+Remain_Band VIKOR:,"['oa_std_dev', 4.967164912978758, 'ra_std_dev', None]"
+Remain_Band GREEDY:,"['oa_std_dev', 4.929503017546495, 'ra_std_dev', 5.802298395176403]"
+Execution Time VIKOR:,0.0
+Count:,0
+Forecast Horizon:,2
+N_I:,2,N_O:,4,N_R:,1,N_T:,5
+Average duration of optical connections VIKOR:,3
+Standard deviation of Optical connections VIKOR:,1.7320508075688772
+Average duration of Radio connections VIKOR:,3
+Standard deviation of Radio connections VIKOR:,0
+Average duration of optical connections GREEDY:,5
+Standard deviation of Optical connections GREEDY:,0
+Average duration of Radio connections GREEDY:,5
+Standard deviation of Radio connections GREEDY:,0
+VIKOR Distances,optical - Avg:,6.301525226533672,Std Dev:,0.8471978306470426
+VIKOR Distances,Radio - Avg:,3.4643469803124516,Std Dev:,0
+GREEDY Distances,optical - Avg:,3.640288450109414,Std Dev:,0
+GREEDY Distances,Radio - Avg:,3.21278695216474,Std Dev:,0
+VIKOR Handovers,optical:,7,Radio:,1
+GREEDY Handovers,optical:,1,Radio:,1
+Remain_Band VIKOR:,"['oa_std_dev', 5.1478150704935, 'ra_std_dev', 7.0710678118654755]"
+Remain_Band GREEDY:,"['oa_std_dev', 7.0710678118654755, 'ra_std_dev', 6.363961030678928]"
+Execution Time VIKOR:,0.0
+Count:,0
+Forecast Horizon:,2
+N_I:,2,N_O:,4,N_R:,1,N_T:,5
+Average duration of optical connections VIKOR:,2.75
+Standard deviation of Optical connections VIKOR:,1.5
+Average duration of Radio connections VIKOR:,3
+Standard deviation of Radio connections VIKOR:,0
+Average duration of optical connections GREEDY:,0
+Standard deviation of Optical connections GREEDY:,0
+Average duration of Radio connections GREEDY:,0
+Standard deviation of Radio connections GREEDY:,0
+VIKOR Distances,optical - Avg:,5.264281080836257,Std Dev:,1.2336244305329256
+VIKOR Distances,Radio - Avg:,3.9000641020372986,Std Dev:,0
+GREEDY Distances,optical - Avg:,0,Std Dev:,0
+GREEDY Distances,Radio - Avg:,0,Std Dev:,0
+VIKOR Handovers,optical:,7,Radio:,1
+GREEDY Handovers,optical:,0,Radio:,0
+Remain_Band VIKOR:,"['oa_std_dev', 5.04524979109513, 'ra_std_dev', 7.0710678118654755]"
+Remain_Band GREEDY:,"['oa_std_dev', None, 'ra_std_dev', None]"
+Execution Time VIKOR:,0.0
+Count:,0
+Forecast Horizon:,2
+N_I:,2,N_O:,4,N_R:,1,N_T:,5
+Average duration of optical connections VIKOR:,3.3333333333333335
+Standard deviation of Optical connections VIKOR:,1.5275252316519468
+Average duration of Radio connections VIKOR:,0
+Standard deviation of Radio connections VIKOR:,0
+Average duration of optical connections GREEDY:,0
+Standard deviation of Optical connections GREEDY:,0
+Average duration of Radio connections GREEDY:,0
+Standard deviation of Radio connections GREEDY:,0
+VIKOR Distances,optical - Avg:,6.677496704336004,Std Dev:,1.2115008170891888
+VIKOR Distances,Radio - Avg:,0,Std Dev:,0
+GREEDY Distances,optical - Avg:,0,Std Dev:,0
+GREEDY Distances,Radio - Avg:,0,Std Dev:,0
+VIKOR Handovers,optical:,8,Radio:,0
+GREEDY Handovers,optical:,0,Radio:,0
+Remain_Band VIKOR:,"['oa_std_dev', 5.080127194046652, 'ra_std_dev', None]"
+Remain_Band GREEDY:,"['oa_std_dev', None, 'ra_std_dev', None]"
+Execution Time VIKOR:,0.0
+Count:,0
+Forecast Horizon:,2
+N_I:,2,N_O:,4,N_R:,1,N_T:,5
+Average duration of optical connections VIKOR:,2.6666666666666665
+Standard deviation of Optical connections VIKOR:,1.1547005383792515
+Average duration of Radio connections VIKOR:,3
+Standard deviation of Radio connections VIKOR:,0
+Average duration of optical connections GREEDY:,5
+Standard deviation of Optical connections GREEDY:,0
+Average duration of Radio connections GREEDY:,0
+Standard deviation of Radio connections GREEDY:,0
+VIKOR Distances,optical - Avg:,5.5177085231118665,Std Dev:,1.2628366650019862
+VIKOR Distances,Radio - Avg:,4.281831723849634,Std Dev:,0.7465759391731774
+GREEDY Distances,optical - Avg:,5.032169367832765,Std Dev:,1.3303544290493319
+GREEDY Distances,Radio - Avg:,0,Std Dev:,0
+VIKOR Handovers,optical:,5,Radio:,3
+GREEDY Handovers,optical:,2,Radio:,0
+Remain_Band VIKOR:,"['oa_std_dev', 5.303300858899107, 'ra_std_dev', 5.259911279353167]"
+Remain_Band GREEDY:,"['oa_std_dev', 6.363961030678928, 'ra_std_dev', None]"
