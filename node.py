@@ -119,8 +119,8 @@ class Node:
             num_attrs = len(row)
             weights =[1 for _ in range(num_attrs)]
             
-            impact = [-1] * (len(f1_handover_cost) + len(ban_dem_2_available))  # Initialize with -1 for the length of f1_fuzzy_distances
-            impact.extend([1] * len(bandwidths_ratios))  # Append 1 for the length of f2_all_ban_ratio
+            impact = [-1] * (len(f1_handover_cost) )  # Initialize with -1 for the length of f1_fuzzy_distances
+            impact.extend([1] * ( len(ban_dem_2_available)+ len(bandwidths_ratios)))  # Append 1 for the length of f2_all_ban_ratio
 
             if len(impact) != len(row):
                 print(len(impact) , len(row))
@@ -147,7 +147,7 @@ class Node:
 
             if bandwidth > 0:
                 
-                bandwidths.append(round(bandwidth/self.req_bandwidth[t-1],2))
+                bandwidths.append(round(self.req_bandwidth[t-1]/bandwidth,2))
             else:
                 bandwidths.append(0)
         return bandwidths
@@ -182,7 +182,7 @@ class Node:
         ro =  [0 for _ in range(min(self.forecast_horizon, self.N_T - t))]
         for tau in range(min(self.forecast_horizon, self.N_T - t)):
             if t+tau < self.N_T:
-                ro[tau] = self.req_bandwidth[t+tau] / ap.free_bandwidth
+                ro[tau] =  ap.free_bandwidth /ap.max_bandwidth
         return ro
 
     

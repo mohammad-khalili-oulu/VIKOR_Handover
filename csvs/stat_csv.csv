@@ -138,3 +138,23 @@ VIKOR Handovers,optical:,5,Radio:,3
 GREEDY Handovers,optical:,2,Radio:,0
 Remain_Band VIKOR:,"['oa_std_dev', 5.303300858899107, 'ra_std_dev', 5.259911279353167]"
 Remain_Band GREEDY:,"['oa_std_dev', 6.363961030678928, 'ra_std_dev', None]"
+Execution Time VIKOR:,0.0
+Count:,0
+Forecast Horizon:,2
+N_I:,2,N_O:,4,N_R:,1,N_T:,5
+Average duration of optical connections VIKOR:,3.5
+Standard deviation of Optical connections VIKOR:,2.1213203435596424
+Average duration of Radio connections VIKOR:,4
+Standard deviation of Radio connections VIKOR:,0
+Average duration of optical connections GREEDY:,5
+Standard deviation of Optical connections GREEDY:,0.0
+Average duration of Radio connections GREEDY:,0
+Standard deviation of Radio connections GREEDY:,0
+VIKOR Distances,optical - Avg:,3.2076178646879394,Std Dev:,0.2987634117528031
+VIKOR Distances,Radio - Avg:,4.943476812580628,Std Dev:,1.7280423192026722
+GREEDY Distances,optical - Avg:,6.972321186049954,Std Dev:,0.553149669725943
+GREEDY Distances,Radio - Avg:,0,Std Dev:,0
+VIKOR Handovers,optical:,3,Radio:,2
+GREEDY Handovers,optical:,2,Radio:,0
+Remain_Band VIKOR:,"['oa_std_dev', 4.929503017546495, 'ra_std_dev', 5.196152422706632]"
+Remain_Band GREEDY:,"['oa_std_dev', 5.196152422706632, 'ra_std_dev', None]"
